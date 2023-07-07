@@ -29,6 +29,12 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "VL04", "VL04\VL04.pyproj", 
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CB03", "CB03\CB03.pyproj", "{EE848F3C-14B5-4770-ACC1-DD7648656955}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CB08", "CB08\CB08.pyproj", "{06DB8E63-20D0-4FDF-8BFF-4B501326B4F7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DK05", "DK05\DK05.pyproj", "{C75C4DAF-4796-4448-9390-9075F0F02EE4}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DK10", "DK10\DK10.pyproj", "{383A8A8B-EDC2-4C75-9430-13B517E7F072}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +67,12 @@ Global
 		{75B3C1B4-72B1-4F4E-863D-2728E7420AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE848F3C-14B5-4770-ACC1-DD7648656955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EE848F3C-14B5-4770-ACC1-DD7648656955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06DB8E63-20D0-4FDF-8BFF-4B501326B4F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06DB8E63-20D0-4FDF-8BFF-4B501326B4F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75C4DAF-4796-4448-9390-9075F0F02EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75C4DAF-4796-4448-9390-9075F0F02EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{383A8A8B-EDC2-4C75-9430-13B517E7F072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{383A8A8B-EDC2-4C75-9430-13B517E7F072}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
