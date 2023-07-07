@@ -14,6 +14,7 @@ def kiemtranhuan(n):
         return True
     else:
         return False
+    return True
 def main():
     n=Nhap()
     if(kiemtra(n)==False):
