@@ -1,5 +1,5 @@
 a = input()
-result = {}
+result = {} #map in python
 for i in a:
     if i in result:
         result[i] += 1
